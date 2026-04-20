@@ -20,3 +20,16 @@ if activity!="All":
     filtered_df = df[df["activity"] == activity]
     st.write(f"### Filtered Data for {activity}")
     st.dataframe(filtered_df)
+
+st.write("### Top calorie-burning activity per category")
+top_df = filtered_df.loc[filtered_df.groupby("activity")["kcal"].idxmax()]
+
+
+for _, row in top_df.iterrows():   #zwraca kazdy wiersz z DataFrame jako Series, gdzie _ to indeks, a row to zawartość wiersza
+    st.markdown(f"""   
+    **{row['activity']}**  
+    Duration: {row['duration_min']} min  
+    Calories: {row['kcal']} kcal  
+    Intensity: {row['intensity']}
+    """)
+
