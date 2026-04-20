@@ -1,0 +1,401 @@
+date,activity,category,duration_min,kcal,avg_heart_rate,distance_km,intensity
+2025-01-01,Running,cardio,50,606,174,7.28,high
+2025-01-02,Pilates,mobility,55,284,93,,low
+2025-01-03,Yoga,mobility,31,107,97,,low
+2025-01-04,Bike Riding,cardio,58,437,149,33.4,moderate
+2025-01-05,Heavy Lifting,strength,20,157,109,,low
+2025-01-06,Bike Riding,cardio,25,228,158,13.11,high
+2025-01-07,Stretching,mobility,47,172,89,,low
+2025-01-08,Heavy Lifting,strength,78,562,134,,moderate
+2025-01-09,Climbing,strength,67,496,135,,moderate
+2025-01-10,Climbing,strength,46,415,140,,moderate
+2025-01-11,Running,cardio,71,864,158,9.23,high
+2025-01-12,Climbing,strength,79,569,147,,moderate
+2025-01-13,HIIT,cardio,66,943,179,,high
+2025-01-14,Yoga,mobility,36,156,114,,moderate
+2025-01-15,Heavy Lifting,strength,90,542,103,,low
+2025-01-16,Climbing,strength,31,241,146,,moderate
+2025-01-17,HIIT,cardio,87,1075,165,,high
+2025-01-18,Pilates,mobility,40,177,90,,low
+2025-01-19,Running,cardio,34,378,145,4.92,moderate
+2025-01-20,Pilates,mobility,74,348,94,,low
+2025-01-21,Heavy Lifting,strength,36,276,117,,moderate
+2025-01-22,Climbing,strength,61,561,112,,moderate
+2025-01-23,HIIT,cardio,46,549,178,,high
+2025-01-24,Bike Riding,cardio,70,639,133,23.65,moderate
+2025-01-25,Running,cardio,36,357,145,6.07,moderate
+2025-01-26,Yoga,mobility,51,219,98,,low
+2025-01-27,Stretching,mobility,68,153,102,,low
+2025-01-28,Stretching,mobility,53,176,110,,moderate
+2025-01-29,HIIT,cardio,78,842,175,,high
+2025-01-30,Yoga,mobility,58,229,96,,low
+2025-01-31,Heavy Lifting,strength,76,534,101,,low
+2025-02-01,Heavy Lifting,strength,41,253,129,,moderate
+2025-02-02,Bike Riding,cardio,65,466,165,20.43,high
+2025-02-03,HIIT,cardio,57,817,173,,high
+2025-02-04,Heavy Lifting,strength,89,655,108,,low
+2025-02-05,Stretching,mobility,86,320,85,,low
+2025-02-06,Stretching,mobility,72,214,93,,low
+2025-02-07,HIIT,cardio,37,539,158,,high
+2025-02-08,Pilates,mobility,78,320,102,,low
+2025-02-09,Climbing,strength,59,537,124,,moderate
+2025-02-10,Bike Riding,cardio,21,206,130,6.69,moderate
+2025-02-11,Stretching,mobility,29,103,96,,low
+2025-02-12,HIIT,cardio,30,375,182,,high
+2025-02-13,Climbing,strength,23,208,129,,moderate
+2025-02-14,Stretching,mobility,48,189,91,,low
+2025-02-15,HIIT,cardio,69,795,183,,high
+2025-02-16,Running,cardio,84,829,141,11.45,moderate
+2025-02-17,Pilates,mobility,82,469,90,,low
+2025-02-18,Pilates,mobility,89,374,96,,low
+2025-02-19,Running,cardio,61,576,148,7.95,moderate
+2025-02-20,Running,cardio,36,363,150,5.03,high
+2025-02-21,Stretching,mobility,35,84,106,,low
+2025-02-22,Bike Riding,cardio,68,650,147,21.86,moderate
+2025-02-23,Pilates,mobility,41,192,97,,low
+2025-02-24,Pilates,mobility,37,163,106,,low
+2025-02-25,Climbing,strength,29,288,131,,moderate
+2025-02-26,Bike Riding,cardio,54,520,148,27.21,moderate
+2025-02-27,HIIT,cardio,64,752,162,,high
+2025-02-28,Running,cardio,34,330,170,5.84,high
+2025-03-01,Stretching,mobility,84,254,87,,low
+2025-03-02,HIIT,cardio,35,464,161,,high
+2025-03-03,Bike Riding,cardio,32,309,142,13.35,moderate
+2025-03-04,Heavy Lifting,strength,89,694,138,,moderate
+2025-03-05,Running,cardio,41,460,166,5.62,high
+2025-03-06,Yoga,mobility,83,349,102,,low
+2025-03-07,Bike Riding,cardio,40,426,158,14.93,high
+2025-03-08,Pilates,mobility,74,378,110,,moderate
+2025-03-09,Climbing,strength,70,477,141,,moderate
+2025-03-10,Stretching,mobility,72,195,90,,low
+2025-03-11,Pilates,mobility,58,285,119,,moderate
+2025-03-12,Stretching,mobility,57,194,85,,low
+2025-03-13,Pilates,mobility,25,138,105,,low
+2025-03-14,Yoga,mobility,47,154,93,,low
+2025-03-15,Bike Riding,cardio,59,429,141,23.47,moderate
+2025-03-16,Stretching,mobility,33,93,103,,low
+2025-03-17,Bike Riding,cardio,62,438,147,35.09,moderate
+2025-03-18,Running,cardio,63,685,163,10.46,high
+2025-03-19,Pilates,mobility,70,294,94,,low
+2025-03-20,Running,cardio,21,237,155,3.67,high
+2025-03-21,Climbing,strength,74,665,135,,moderate
+2025-03-22,Climbing,strength,39,315,115,,moderate
+2025-03-23,Yoga,mobility,61,212,113,,moderate
+2025-03-24,Yoga,mobility,20,87,87,,low
+2025-03-25,Yoga,mobility,56,224,113,,moderate
+2025-03-26,Climbing,strength,54,535,150,,high
+2025-03-27,Yoga,mobility,69,314,109,,low
+2025-03-28,HIIT,cardio,25,335,176,,high
+2025-03-29,Yoga,mobility,41,135,88,,low
+2025-03-30,Heavy Lifting,strength,58,336,131,,moderate
+2025-03-31,Pilates,mobility,90,472,101,,low
+2025-04-01,Yoga,mobility,78,286,109,,low
+2025-04-02,Stretching,mobility,26,87,107,,low
+2025-04-03,Bike Riding,cardio,38,385,131,21.74,moderate
+2025-04-04,Stretching,mobility,26,89,102,,low
+2025-04-05,HIIT,cardio,85,1150,176,,high
+2025-04-06,Stretching,mobility,74,290,102,,low
+2025-04-07,Pilates,mobility,41,237,114,,moderate
+2025-04-08,HIIT,cardio,66,696,180,,high
+2025-04-09,HIIT,cardio,66,913,153,,high
+2025-04-10,Pilates,mobility,41,213,99,,low
+2025-04-11,Heavy Lifting,strength,22,132,103,,low
+2025-04-12,Climbing,strength,46,422,131,,moderate
+2025-04-13,Heavy Lifting,strength,59,414,132,,moderate
+2025-04-14,Running,cardio,33,370,146,4.45,moderate
+2025-04-15,Running,cardio,86,931,163,10.77,high
+2025-04-16,Heavy Lifting,strength,26,206,100,,low
+2025-04-17,Running,cardio,53,666,145,7.38,moderate
+2025-04-18,Pilates,mobility,35,143,90,,low
+2025-04-19,Bike Riding,cardio,35,261,152,18.54,high
+2025-04-20,Heavy Lifting,strength,90,634,132,,moderate
+2025-04-21,Yoga,mobility,38,181,101,,low
+2025-04-22,Bike Riding,cardio,81,853,143,47.82,moderate
+2025-04-23,Stretching,mobility,80,218,109,,low
+2025-04-24,Heavy Lifting,strength,67,410,112,,moderate
+2025-04-25,Stretching,mobility,38,94,95,,low
+2025-04-26,Bike Riding,cardio,61,565,140,32.2,moderate
+2025-04-27,Running,cardio,43,401,145,6.78,moderate
+2025-04-28,Heavy Lifting,strength,70,539,125,,moderate
+2025-04-29,Pilates,mobility,28,147,109,,low
+2025-04-30,Running,cardio,80,911,150,12.81,high
+2025-05-01,HIIT,cardio,82,980,152,,high
+2025-05-02,Running,cardio,58,680,171,9.18,high
+2025-05-03,Bike Riding,cardio,66,592,131,24.06,moderate
+2025-05-04,Heavy Lifting,strength,63,450,138,,moderate
+2025-05-05,Climbing,strength,28,225,131,,moderate
+2025-05-06,Running,cardio,67,701,147,11.47,moderate
+2025-05-07,Heavy Lifting,strength,21,139,128,,moderate
+2025-05-08,Pilates,mobility,53,251,98,,low
+2025-05-09,Pilates,mobility,75,304,105,,low
+2025-05-10,Bike Riding,cardio,35,281,151,20.58,high
+2025-05-11,Heavy Lifting,strength,38,228,137,,moderate
+2025-05-12,Running,cardio,85,1048,148,14.71,moderate
+2025-05-13,Stretching,mobility,26,81,109,,low
+2025-05-14,Pilates,mobility,47,219,93,,low
+2025-05-15,Running,cardio,80,769,175,9.77,high
+2025-05-16,Yoga,mobility,32,126,92,,low
+2025-05-17,Bike Riding,cardio,24,251,156,11.73,high
+2025-05-18,Stretching,mobility,68,264,87,,low
+2025-05-19,Yoga,mobility,76,333,105,,low
+2025-05-20,Running,cardio,21,231,170,3.1,high
+2025-05-21,Stretching,mobility,90,187,90,,low
+2025-05-22,Bike Riding,cardio,48,513,147,20.17,moderate
+2025-05-23,Pilates,mobility,63,255,109,,low
+2025-05-24,Bike Riding,cardio,81,677,142,43.54,moderate
+2025-05-25,Stretching,mobility,23,77,84,,low
+2025-05-26,Stretching,mobility,67,219,97,,low
+2025-05-27,Running,cardio,58,548,166,8.86,high
+2025-05-28,Stretching,mobility,40,98,92,,low
+2025-05-29,Stretching,mobility,87,239,99,,low
+2025-05-30,Climbing,strength,80,726,141,,moderate
+2025-05-31,Heavy Lifting,strength,31,181,131,,moderate
+2025-06-01,HIIT,cardio,29,292,152,,high
+2025-06-02,HIIT,cardio,59,816,170,,high
+2025-06-03,Heavy Lifting,strength,55,389,108,,low
+2025-06-04,Yoga,mobility,83,275,102,,low
+2025-06-05,Running,cardio,80,809,155,9.65,high
+2025-06-06,Climbing,strength,45,423,115,,moderate
+2025-06-07,Stretching,mobility,25,52,83,,low
+2025-06-08,Bike Riding,cardio,75,615,135,31.77,moderate
+2025-06-09,Pilates,mobility,81,451,120,,moderate
+2025-06-10,Climbing,strength,54,358,139,,moderate
+2025-06-11,HIIT,cardio,73,888,152,,high
+2025-06-12,Stretching,mobility,80,312,93,,low
+2025-06-13,Climbing,strength,66,578,137,,moderate
+2025-06-14,Stretching,mobility,55,113,106,,low
+2025-06-15,Yoga,mobility,21,63,96,,low
+2025-06-16,Bike Riding,cardio,42,327,135,17.94,moderate
+2025-06-17,Bike Riding,cardio,54,449,149,20.71,moderate
+2025-06-18,Bike Riding,cardio,32,310,130,19.18,moderate
+2025-06-19,Yoga,mobility,29,136,106,,low
+2025-06-20,Climbing,strength,80,542,134,,moderate
+2025-06-21,Yoga,mobility,30,106,92,,low
+2025-06-22,Pilates,mobility,87,417,117,,moderate
+2025-06-23,Heavy Lifting,strength,26,198,103,,low
+2025-06-24,Yoga,mobility,72,260,111,,moderate
+2025-06-25,Pilates,mobility,80,427,105,,low
+2025-06-26,Climbing,strength,67,596,120,,moderate
+2025-06-27,Yoga,mobility,72,273,109,,low
+2025-06-28,Heavy Lifting,strength,68,461,112,,moderate
+2025-06-29,Bike Riding,cardio,56,567,131,20.45,moderate
+2025-06-30,Heavy Lifting,strength,87,491,108,,low
+2025-07-01,Bike Riding,cardio,65,483,136,23.87,moderate
+2025-07-02,Running,cardio,26,253,159,3.55,high
+2025-07-03,HIIT,cardio,86,890,151,,high
+2025-07-04,Stretching,mobility,50,121,103,,low
+2025-07-05,Heavy Lifting,strength,40,312,116,,moderate
+2025-07-06,Heavy Lifting,strength,31,181,118,,moderate
+2025-07-07,Pilates,mobility,43,222,91,,low
+2025-07-08,Pilates,mobility,41,207,111,,moderate
+2025-07-09,Bike Riding,cardio,51,444,150,15.68,high
+2025-07-10,Running,cardio,55,698,165,7.41,high
+2025-07-11,Pilates,mobility,69,302,116,,moderate
+2025-07-12,Bike Riding,cardio,42,453,134,16.67,moderate
+2025-07-13,Yoga,mobility,88,300,93,,low
+2025-07-14,Bike Riding,cardio,72,740,130,26.08,moderate
+2025-07-15,Bike Riding,cardio,30,284,146,13.78,moderate
+2025-07-16,Yoga,mobility,65,220,105,,low
+2025-07-17,Yoga,mobility,70,282,105,,low
+2025-07-18,Running,cardio,36,326,165,6.15,high
+2025-07-19,Stretching,mobility,31,110,84,,low
+2025-07-20,Stretching,mobility,30,112,81,,low
+2025-07-21,Yoga,mobility,72,236,98,,low
+2025-07-22,Climbing,strength,73,704,113,,moderate
+2025-07-23,Yoga,mobility,89,344,95,,low
+2025-07-24,Bike Riding,cardio,60,571,155,26.0,high
+2025-07-25,HIIT,cardio,54,682,167,,high
+2025-07-26,Running,cardio,74,891,149,10.34,moderate
+2025-07-27,Bike Riding,cardio,73,775,164,31.72,high
+2025-07-28,Bike Riding,cardio,43,379,147,23.63,moderate
+2025-07-29,Climbing,strength,34,260,110,,moderate
+2025-07-30,Heavy Lifting,strength,49,372,135,,moderate
+2025-07-31,Running,cardio,35,361,144,5.3,moderate
+2025-08-01,Climbing,strength,67,593,116,,moderate
+2025-08-02,Pilates,mobility,40,160,116,,moderate
+2025-08-03,Stretching,mobility,65,208,97,,low
+2025-08-04,Climbing,strength,45,388,118,,moderate
+2025-08-05,Heavy Lifting,strength,80,633,112,,moderate
+2025-08-06,Bike Riding,cardio,20,178,162,7.17,high
+2025-08-07,Heavy Lifting,strength,58,375,112,,moderate
+2025-08-08,HIIT,cardio,75,1082,185,,high
+2025-08-09,HIIT,cardio,43,446,161,,high
+2025-08-10,Bike Riding,cardio,50,442,152,25.79,high
+2025-08-11,Heavy Lifting,strength,36,208,112,,moderate
+2025-08-12,Heavy Lifting,strength,24,140,130,,moderate
+2025-08-13,Stretching,mobility,58,220,107,,low
+2025-08-14,Bike Riding,cardio,42,387,141,18.1,moderate
+2025-08-15,Bike Riding,cardio,63,659,155,27.44,high
+2025-08-16,Heavy Lifting,strength,77,568,126,,moderate
+2025-08-17,Running,cardio,56,568,161,8.36,high
+2025-08-18,Yoga,mobility,72,276,88,,low
+2025-08-19,Stretching,mobility,35,74,104,,low
+2025-08-20,HIIT,cardio,21,297,171,,high
+2025-08-21,Pilates,mobility,33,160,112,,moderate
+2025-08-22,Stretching,mobility,68,165,110,,moderate
+2025-08-23,Bike Riding,cardio,62,544,148,27.84,moderate
+2025-08-24,Climbing,strength,73,562,131,,moderate
+2025-08-25,Yoga,mobility,58,205,95,,low
+2025-08-26,Pilates,mobility,42,212,98,,low
+2025-08-27,Stretching,mobility,43,95,102,,low
+2025-08-28,Heavy Lifting,strength,70,526,140,,moderate
+2025-08-29,Yoga,mobility,61,192,98,,low
+2025-08-30,HIIT,cardio,84,939,160,,high
+2025-08-31,Pilates,mobility,27,160,102,,low
+2025-09-01,Running,cardio,60,612,156,7.56,high
+2025-09-02,Running,cardio,59,687,155,10.43,high
+2025-09-03,HIIT,cardio,88,1287,173,,high
+2025-09-04,Stretching,mobility,27,55,110,,moderate
+2025-09-05,HIIT,cardio,53,623,178,,high
+2025-09-06,Running,cardio,34,352,163,5.72,high
+2025-09-07,Climbing,strength,78,676,133,,moderate
+2025-09-08,Pilates,mobility,64,362,100,,low
+2025-09-09,HIIT,cardio,64,846,151,,high
+2025-09-10,HIIT,cardio,74,977,168,,high
+2025-09-11,Climbing,strength,51,466,143,,moderate
+2025-09-12,Climbing,strength,45,278,113,,moderate
+2025-09-13,Climbing,strength,68,537,124,,moderate
+2025-09-14,Climbing,strength,54,368,116,,moderate
+2025-09-15,Bike Riding,cardio,66,511,156,22.46,high
+2025-09-16,Running,cardio,47,549,167,7.58,high
+2025-09-17,Stretching,mobility,83,219,101,,low
+2025-09-18,Heavy Lifting,strength,75,519,106,,low
+2025-09-19,Yoga,mobility,37,164,96,,low
+2025-09-20,Stretching,mobility,89,317,89,,low
+2025-09-21,Pilates,mobility,58,264,114,,moderate
+2025-09-22,Pilates,mobility,56,270,110,,moderate
+2025-09-23,HIIT,cardio,58,776,151,,high
+2025-09-24,Yoga,mobility,21,66,108,,low
+2025-09-25,Running,cardio,79,1009,148,14.18,moderate
+2025-09-26,Stretching,mobility,43,155,93,,low
+2025-09-27,Running,cardio,71,773,152,9.66,high
+2025-09-28,HIIT,cardio,85,1169,178,,high
+2025-09-29,Heavy Lifting,strength,31,230,130,,moderate
+2025-09-30,Heavy Lifting,strength,81,563,112,,moderate
+2025-10-01,Yoga,mobility,77,296,95,,low
+2025-10-02,Running,cardio,69,636,174,11.99,high
+2025-10-03,Stretching,mobility,81,162,81,,low
+2025-10-04,Stretching,mobility,23,79,95,,low
+2025-10-05,Climbing,strength,41,345,123,,moderate
+2025-10-06,Yoga,mobility,54,260,110,,moderate
+2025-10-07,HIIT,cardio,33,374,183,,high
+2025-10-08,Heavy Lifting,strength,65,457,120,,moderate
+2025-10-09,HIIT,cardio,66,932,152,,high
+2025-10-10,Climbing,strength,27,243,117,,moderate
+2025-10-11,HIIT,cardio,21,242,162,,high
+2025-10-12,Climbing,strength,58,549,147,,moderate
+2025-10-13,Running,cardio,37,373,172,5.82,high
+2025-10-14,Pilates,mobility,66,340,93,,low
+2025-10-15,Pilates,mobility,25,106,103,,low
+2025-10-16,Pilates,mobility,39,198,98,,low
+2025-10-17,Climbing,strength,65,551,135,,moderate
+2025-10-18,Climbing,strength,54,512,140,,moderate
+2025-10-19,Climbing,strength,25,163,145,,moderate
+2025-10-20,Climbing,strength,65,529,140,,moderate
+2025-10-21,HIIT,cardio,24,355,151,,high
+2025-10-22,HIIT,cardio,59,781,171,,high
+2025-10-23,Yoga,mobility,28,125,90,,low
+2025-10-24,Bike Riding,cardio,55,554,142,17.51,moderate
+2025-10-25,HIIT,cardio,34,353,155,,high
+2025-10-26,Running,cardio,63,706,164,11.29,high
+2025-10-27,Stretching,mobility,39,133,97,,low
+2025-10-28,HIIT,cardio,63,796,179,,high
+2025-10-29,Running,cardio,88,938,168,13.67,high
+2025-10-30,Heavy Lifting,strength,54,398,129,,moderate
+2025-10-31,Running,cardio,58,670,168,7.88,high
+2025-11-01,Heavy Lifting,strength,61,349,103,,low
+2025-11-02,Bike Riding,cardio,27,233,133,14.83,moderate
+2025-11-03,Yoga,mobility,35,109,97,,low
+2025-11-04,Yoga,mobility,55,254,96,,low
+2025-11-05,Running,cardio,39,495,147,6.84,moderate
+2025-11-06,Stretching,mobility,70,231,85,,low
+2025-11-07,Heavy Lifting,strength,66,381,116,,moderate
+2025-11-08,Stretching,mobility,90,335,106,,low
+2025-11-09,Yoga,mobility,84,305,85,,low
+2025-11-10,Pilates,mobility,62,277,117,,moderate
+2025-11-11,Bike Riding,cardio,43,385,152,20.22,high
+2025-11-12,HIIT,cardio,52,613,184,,high
+2025-11-13,Running,cardio,89,806,170,15.78,high
+2025-11-14,Heavy Lifting,strength,60,454,138,,moderate
+2025-11-15,Running,cardio,90,898,148,15.26,moderate
+2025-11-16,Yoga,mobility,55,210,87,,low
+2025-11-17,Bike Riding,cardio,33,309,156,18.87,high
+2025-11-18,Yoga,mobility,56,261,115,,moderate
+2025-11-19,Stretching,mobility,69,250,84,,low
+2025-11-20,Bike Riding,cardio,25,235,157,10.49,high
+2025-11-21,HIIT,cardio,84,1174,166,,high
+2025-11-22,Climbing,strength,36,322,136,,moderate
+2025-11-23,Stretching,mobility,65,229,82,,low
+2025-11-24,Heavy Lifting,strength,76,504,119,,moderate
+2025-11-25,Heavy Lifting,strength,86,683,107,,low
+2025-11-26,Pilates,mobility,86,494,119,,moderate
+2025-11-27,Pilates,mobility,73,400,95,,low
+2025-11-28,Bike Riding,cardio,32,247,143,13.58,moderate
+2025-11-29,Heavy Lifting,strength,51,273,112,,moderate
+2025-11-30,Heavy Lifting,strength,30,216,117,,moderate
+2025-12-01,Climbing,strength,81,489,137,,moderate
+2025-12-02,Running,cardio,79,935,151,11.09,high
+2025-12-03,Pilates,mobility,61,325,96,,low
+2025-12-04,Yoga,mobility,79,327,85,,low
+2025-12-05,Heavy Lifting,strength,60,384,128,,moderate
+2025-12-06,Yoga,mobility,52,211,98,,low
+2025-12-07,Pilates,mobility,66,384,118,,moderate
+2025-12-08,HIIT,cardio,84,914,172,,high
+2025-12-09,Running,cardio,25,313,166,4.13,high
+2025-12-10,Climbing,strength,43,406,131,,moderate
+2025-12-11,HIIT,cardio,69,807,164,,high
+2025-12-12,Pilates,mobility,74,347,90,,low
+2025-12-13,Pilates,mobility,50,215,92,,low
+2025-12-14,Bike Riding,cardio,60,658,156,28.74,high
+2025-12-15,Bike Riding,cardio,86,825,164,41.22,high
+2025-12-16,Heavy Lifting,strength,90,693,130,,moderate
+2025-12-17,Climbing,strength,60,489,121,,moderate
+2025-12-18,Pilates,mobility,25,140,112,,moderate
+2025-12-19,Yoga,mobility,57,235,97,,low
+2025-12-20,Heavy Lifting,strength,33,216,115,,moderate
+2025-12-21,Bike Riding,cardio,58,585,163,31.7,high
+2025-12-22,Running,cardio,60,612,166,10.67,high
+2025-12-23,Yoga,mobility,41,123,87,,low
+2025-12-24,Climbing,strength,20,194,116,,moderate
+2025-12-25,Pilates,mobility,90,380,91,,low
+2025-12-26,Pilates,mobility,40,195,100,,low
+2025-12-27,Heavy Lifting,strength,68,368,115,,moderate
+2025-12-28,Running,cardio,24,226,142,3.51,moderate
+2025-12-29,Running,cardio,26,308,173,3.61,high
+2025-12-30,Running,cardio,87,1013,167,12.09,high
+2025-12-31,Running,cardio,58,637,168,9.91,high
+2026-01-01,Climbing,strength,65,619,137,,moderate
+2026-01-02,HIIT,cardio,51,597,162,,high
+2026-01-03,Heavy Lifting,strength,29,192,137,,moderate
+2026-01-04,Bike Riding,cardio,37,278,152,13.52,high
+2026-01-05,Bike Riding,cardio,72,652,135,21.77,moderate
+2026-01-06,Pilates,mobility,32,168,103,,low
+2026-01-07,Bike Riding,cardio,89,937,143,42.99,moderate
+2026-01-08,Stretching,mobility,32,105,87,,low
+2026-01-09,Pilates,mobility,31,182,104,,low
+2026-01-10,Stretching,mobility,26,53,87,,low
+2026-01-11,HIIT,cardio,67,820,152,,high
+2026-01-12,Bike Riding,cardio,30,226,138,16.31,moderate
+2026-01-13,Yoga,mobility,69,276,112,,moderate
+2026-01-14,Yoga,mobility,28,100,92,,low
+2026-01-15,HIIT,cardio,57,812,151,,high
+2026-01-16,Bike Riding,cardio,27,202,144,10.17,moderate
+2026-01-17,Pilates,mobility,40,175,107,,low
+2026-01-18,Bike Riding,cardio,59,414,141,30.54,moderate
+2026-01-19,Yoga,mobility,53,254,93,,low
+2026-01-20,Bike Riding,cardio,71,715,165,34.01,high
+2026-01-21,Yoga,mobility,27,123,98,,low
+2026-01-22,Pilates,mobility,87,417,117,,moderate
+2026-01-23,HIIT,cardio,53,781,182,,high
+2026-01-24,Running,cardio,84,870,161,11.0,high
+2026-01-25,Heavy Lifting,strength,61,436,118,,moderate
+2026-01-26,HIIT,cardio,73,853,177,,high
+2026-01-27,Heavy Lifting,strength,31,229,139,,moderate
+2026-01-28,Stretching,mobility,87,177,89,,low
+2026-01-29,Bike Riding,cardio,51,465,140,20.66,moderate
+2026-01-30,Yoga,mobility,44,216,105,,low
+2026-01-31,Bike Riding,cardio,22,171,160,11.49,high
+2026-02-01,Yoga,mobility,22,87,115,,moderate
+2026-02-02,Bike Riding,cardio,55,562,132,16.61,moderate
+2026-02-03,Stretching,mobility,46,182,82,,low
+2026-02-04,Stretching,mobility,45,157,99,,low
