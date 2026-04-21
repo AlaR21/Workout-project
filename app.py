@@ -1,5 +1,7 @@
 import streamlit as st
 import pandas as pd
+import numpy as np
+
 
 st.title("Workout Natalia's Tracker")
 
@@ -18,6 +20,8 @@ activity = st.selectbox(
 
 if activity!="All":
     filtered_df = df[df["activity"] == activity]
+else:    
+    filtered_df = df
     st.write(f"### Filtered Data for {activity}")
     st.dataframe(filtered_df)
 
@@ -33,3 +37,38 @@ for _, row in top_df.iterrows():   #zwraca kazdy wiersz z DataFrame jako Series,
     Intensity: {row['intensity']}
     """)
 
+category = st.selectbox(
+    "Select workout category:",
+    df["category"].unique()
+)
+
+if category !="All":
+    filtered_category_df = df[df["category"] == category]
+    filtered_category_df = filtered_category_df.sort_values(by="activity", ascending=False)
+    st.write(f"### Filtered Data for {category}")
+    st.dataframe(filtered_category_df)
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+# grupowanie
+activity_time = df.groupby('activity')['duration_min'].sum()
+
+# zamiana na godziny
+activity_hours = (activity_time / 60).round(2)
+
+# kolory gradientowe
+colors = plt.cm.viridis(np.linspace(0.2, 0.9, len(activity_hours)))
+
+# wykres
+fig, ax = plt.subplots(figsize=(7, 4))
+
+ax.bar(activity_hours.index, activity_hours.values, color=colors)
+
+ax.set_title('Czas treningów wg aktywności')
+ax.set_xlabel('Aktywność')
+ax.set_ylabel('Godziny')
+ax.tick_params(axis='x', rotation=45)
+
+# pokazanie w Streamlit
+st.pyplot(fig)
