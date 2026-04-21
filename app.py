@@ -65,9 +65,9 @@ fig, ax = plt.subplots(figsize=(7, 4))
 
 ax.bar(activity_hours.index, activity_hours.values, color=colors)
 
-ax.set_title('Czas treningów wg aktywności')
-ax.set_xlabel('Aktywność')
-ax.set_ylabel('Godziny')
+ax.set_title('Czas treningów wg aktywności', color='red', fontsize=16)
+ax.set_xlabel('Aktywność', color='blue', fontsize=12)
+ax.set_ylabel('Godziny', color='blue', fontsize=12)
 ax.tick_params(axis='x', rotation=45)
 
 # pokazanie w Streamlit
