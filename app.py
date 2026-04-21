@@ -34,7 +34,27 @@ for _, row in top_df.iterrows():   #zwraca kazdy wiersz z DataFrame jako Series,
     **{row['activity']}**  
     Duration: {row['duration_min']} min  
     Calories: {row['kcal']} kcal  
-    Intensity: {row['intensity']}
+    Intensity: {row['intensity']}  
+    Date: {row['date']}
+    """)
+
+if activity!="All":
+    filtered_df = df[df["activity"] == activity]
+else:    
+    filtered_df = df
+    st.write(f"### Filtered Data for {activity}")
+    st.dataframe(filtered_df)
+
+st.write("### Top duration activity per category")
+top_df = filtered_df.loc[filtered_df.groupby("activity")["duration_min"].idxmax()]
+
+for _, row in top_df.iterrows():   #zwraca kazdy wiersz z DataFrame jako Series, gdzie _ to indeks, a row to zawartość wiersza
+    st.markdown(f"""   
+    **{row['activity']}**  
+    Duration: {row['duration_min']} min  
+    Calories: {row['kcal']} kcal  
+    Intensity: {row['intensity']}  
+    Date: {row['date']}
     """)
 
 category = st.selectbox(
